@@ -84,18 +84,6 @@ I’m a **Full Stack Developer** with hands-on experience in building scalable w
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=vivekparmar167\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekparmar167\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 * 🔥 Improving **System Design & Backend Architecture**
